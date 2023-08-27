@@ -1,0 +1,15 @@
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/AcertarNumero.deps.json
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/AcertarNumero.runtimeconfig.json
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/AcertarNumero.runtimeconfig.dev.json
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/AcertarNumero.dll
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/ref/AcertarNumero.dll
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/bin/Debug/net5.0/AcertarNumero.pdb
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.csproj.AssemblyReference.cache
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.AssemblyInfoInputs.cache
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.AssemblyInfo.cs
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.csproj.CoreCompileInputs.cache
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.dll
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/ref/AcertarNumero.dll
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.pdb
+/Users/danivaldosousa/projetos/CSharp/AcertarNumero/obj/Debug/net5.0/AcertarNumero.genruntimeconfig.cache
